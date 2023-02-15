@@ -1,0 +1,2 @@
+print("tanzanian shilings")
+input()
