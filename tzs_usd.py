@@ -1,3 +1,4 @@
 print("tanzanian shilings")
 input()
-print(f("hamic push it to git"))
+
+print(f("hamic push it t git"))
